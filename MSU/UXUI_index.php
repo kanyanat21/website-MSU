@@ -7,7 +7,23 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
-
+  <style>
+  img {
+  max-width: 100%;
+  height: auto;
+  }
+  .fakeimg {
+    height: 200px;
+    background: #6F8792;
+  }
+  
+  body {
+	  background-color:#CCF2F4;
+	  font-family: Kanit;
+   
+	  }
+  </style>
+  
 </head>
 <body> 
 <!--//Bootstrap Icons: https://icons.getbootstrap.com/ -->

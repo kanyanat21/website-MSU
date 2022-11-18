@@ -79,7 +79,7 @@
                                     ?>
                                     <tr>
                                     <td><?php echo $result['name']; ?></td>
-                                    <td><?php echo $result['url']; ?></td>
+                                    <td><?php echo "<a href='".$result['url']."'>".$result['url']."</a>";?></td>
                                     </tr>
                                     <?php
                                 }
